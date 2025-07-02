@@ -1,2 +1,3 @@
+#Brief Introduction About Myself#
 My name is Isabelle Mutuyimana. I am passionate about entrepreneurship, digital innovation, and creating solutions that empower youth. I enjoy learning new skills, especially those related to technology, business, and social impact.
 Currently, I am working on projects that focus on job creation and skill development in my community. This repository is part of my learning journey with GitHub, where I’m gaining experience in version control and project collaboration
